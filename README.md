@@ -3,31 +3,61 @@ Gavin Harmon
 
 
 ----
-| Contact: | [LinkedIn](http://www.linkedin.com/in/gavin-harmon-63652064)     |  gavinharmonva@gmail.com       | (703) 927-5258   |
-| :---     |    :----:       |    :----:   |          ---: |
+| Contact:  | [github](https://github.com/gavin-harmon)   | [LinkedIn](http://www.linkedin.com/in/gavin-harmon-63652064)     |  gavinharmonva@gmail.com       | (703) 927-5258   
+| :---     |    :----:       |     :----:       |    :----:   |          ---: |
 
 ----
 
->  Highlighted Skills: `SQL Query Writing, ETL, Python, R, Pandas, PyCharm, Dashboard Design, `\
-> `Report Automation, Power BI, Qlikview, IBM Cognos, Tableau, Jupyter Notebooks`\
-> `Insurance, Finance, SSMS, SSIS, Project Lifecycles, Powerpoint, Excel, Access `  
+>  Highlighted Skills: `SQL Query Writing, ETL, Insurance, Finance P&L's, Docker, Gitlab,`\
+>  `Flask Python, R, Pandas, PyCharm, Dashboard Design, Report Automation, Power BI, Qlikview,`\
+>  `IBM Cognos, Tableau, Jupyter Notebooks, SSMS, SSIS, Project Lifecycles, Powerpoint, Excel`  
  
 ----
 Education
 ---------
 
 2003-2007
-**BSc, Economics**; 
-
-Virginia Commonwealth University (Richmond, VA)
+**BSc, Economics**; Virginia Commonwealth University School of Business (Richmond, VA)
 
 ----
 Work Experience:
 ---------
 
-Allianz Partners 	*Oct 2010 – Present*
+### Allianz Partners 	*(Oct 2010 – Present)*
 
-Senior Data Solutions Analyst (March 2020 – Present)
+**Senior Data Solutions Analyst** *(March 2020 – Present)*
+
+
+##### Role Summary
+
+Reports directly to Head of Travel Global Portfolio Monitoring and Pricing. 
+-	Full Data Science Project Lifecycle
+-	Custom Python Development (Validation, ETL, and Presentation)
+-	Stakeholder Reporting
+-	Role involves project planning, python/R development, and delivery on a data strategy for reporting underwriting results to global executives managing Allianz Partners business in 30+ offices.
+
+##### Leadership Accomplishments
+
+- Business Case Design and RFP for cloud data solutions
+- Team Project planning in 90 day cycles. Three level lists with calendar and Gannt chart views for a team of four coordinating quartely deliverables.
+
+##### Project Highlights
+
+- Global Underwriting Database
+  - Code: `PostgresSQL; Gitlab; Flask; R Flexdashboard, Jupyter, Papermill`
+  - Description: Private cloud reporting warehouse for Travel LoB Senior Global Leadership managing $1.5B book of insurance in 46 countries.
+  - Impact: Successfully launched first multi-regional underwriting technical resource. Insights provided on business partner and product performance.
+  - Link: Example Jupyter Pipeline 
+
+‘UPLOAD ASSISTANT’ ETL AUDIT APPLICATION 
+Code: Python; Pandas; Pyinstaller; json; parquet
+Description: GUI Application that reads technical reporting from local underwriters, displays aggregated reporting, shows comparisons to known financials, and validations for both data issues and metric thresholds before saving in json or parquet data files.
+Impact: Replaced key project barrier; weeks-long, meetings-based, data quality feedback loop, with an instant process, survey results, and user feedback.
+
+
+I did even more stuff
+
+
 Designing and developing custom data solutions from user experience and validation at ingestion, to open source and auditable ETL, to presentation layer BI dashboarding. - Data Business Case and Vender Relations 
 -	Data Science Project Management 
 -	Custom Python Development (Validation, ETL, and Presentation Layer primarily) 
@@ -43,9 +73,9 @@ BI / Data Solutions Analyst (Feb 2017 – March 2020)
 •	Created unified Realtime call center performance reporting to executive cell phones.
 
 Financial Data Analyst (Nov 2014 – Feb 2017)
-•	Created actuarial data model for FP&A's earnings forecast up to 70% reduction in month over month variance in P&L results from core product lines. 
-•	Composed three-entity insurance model in inherited MS Excel format and transferred that insurance result forecast and reporting to BPC SAP database solution. 
-•	Submitted official US Business Unit plans and results to Allianz HQ via SAP interface
+Ceated actuarial data model for FP&A's earnings forecast up to 70% reduction in month over month variance in P&L results from core product lines. 
+        Composed three-entity insurance model in inherited MS Excel format and transferred that insurance result forecast and reporting to BPC SAP database solution. 
+  Submitted official US Business Unit plans and results to Allianz HQ via SAP interface
 
 Service Network Specialist (Jan 2014 – Nov 2014)
 •	Created data processes (Oracle PeopleSoft and MS Access) and standard operating procedures to manage a global network of providers composed of thousands of healthcare service contracts. 
@@ -108,91 +138,3 @@ Designed course materials and taught reporting analysts report design from my SQ
 Business Productivity Coach and Mentor
 Recognized by Operations Management for knowledge transfer and team building with various awards since 2014.
 
-Education		
-Virginia Commonwealth University - School of Business Bachelor of Science (BS)
-Economics · (2002 - 2007)							
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Experience
-----------
-
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
