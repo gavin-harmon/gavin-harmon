@@ -1,5 +1,5 @@
-###### Note that activity charts do not include enterprise or GitLab account  activity
-
+###### Note that activity charts do not include enterprise or GitLab account activity
+###### I am in the process of providing portfolio examples that are ethically curated with dummy data and client secrets protected
 
 Gavin Harmon 
 ============
