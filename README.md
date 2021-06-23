@@ -1,3 +1,6 @@
+###### Note that activity charts do not include enterprise or GitLab account  activity
+
+
 Gavin Harmon 
 ============
 
