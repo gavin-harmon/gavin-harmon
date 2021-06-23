@@ -30,16 +30,47 @@ Work Experience:
 
 ##### Role Summary
 
-Reports directly to Head of Travel Global Portfolio Monitoring and Pricing. 
--	Full Data Science Project Lifecycle
--	Custom Python Development (Validation, ETL, and Presentation)
--	Stakeholder Reporting
+Reports to Head of Travel Global Portfolio Monitoring and Pricing. 
+-	Responsible for full data science project lifecycles
+-	Custom python development (Validation, ETL, and Presentation)
+-	Stakeholder reporting
 -	Role involves project planning, python/R development, and delivery on a data strategy for reporting underwriting results to global executives managing Allianz Partners business in 30+ offices.
 
 ##### Leadership Accomplishments
 
-- Business Case Design and RFP for cloud data solutions
-- Team Project planning in 90 day cycles. Three level lists with calendar and Gannt chart views for a team of four coordinating quartely deliverables.
+- Business case design presented to budget sponsors and conducted RFP for cloud data solutions.
+- Team project planning in 90 day cycles. Three level tasks lists with calendars and Gannt charts for a team of four coordinating quartely deliverables.
+- Analyst community executive initiative development involving recruitment, analyst career pathing, and organizational knowledge management for senior leadership as a member of the Allianz Partners Analyst Enablement Committee composed of two managers and two analysts.
+
+##### Project Highlights
+
+- Global Underwriting Database
+  - **Code:** `PostgresSQL; Gitlab; Flask; R Flexdashboard, Jupyter, Papermill`
+  - **Description:** Private cloud reporting warehouse for Travel LoB Senior Global Leadership managing $1.5B book of insurance in 46 countries.
+  - **Impact:** Successfully launched first multi-regional underwriting technical resource. Insights provided on business partner and product performance.
+  - **git repo**: Example Jupyter pipeline with dummy data
+
+- ‘Upload Assistant’ ETL Audit Application 
+  - Code: `Python; Pandas; Pyinstaller; json; parquet`
+  - Description: GUI Python Application that reads technic reports from local underwriters, converts currencies, displays aggregated reporting, shows comparisons to known financials, and validations for both data issues and metric thresholds before saving as json or parquet data files.
+  - Impact: Replaced key project barrier; weeks-long, meetings-based, data quality feedback loop, with an instant process, survey results, and user feedback
+  - git repo: 2021.Q1 Upload Assistant
+  - documentation: docs
+
+=======================================================================
+
+
+**BI / Data Solutions Analyst** *(Feb 2017 – March 2020)*
+
+##### Role Summary
+
+Reports to Director of Operations Performance and Optimization.
+Technical lead for Operations MS SQL Server Business Intelligence Warehouse project lifecycle. Build, maintain, and modify ETL processes and report templates. Train 6 member Business Productivity reporting team. Produce model-based 12 week staffing plans during catostrophic claims seasons. Launch one BI dashboards per quarter. Maintain and enchance reporting BI reporting suite. Other duties as assigned.
+
+##### Leadership Accomplishments
+
+- Conducted cloud data solutions RFP after acquiring formal budget approval from Global Chief Underwriting Officer.
+- Team Project planning in 90 day cycles. Three level tasks lists with calendars and Gannt charts for a team of four coordinating quartely deliverables.
 
 ##### Project Highlights
 
@@ -47,24 +78,17 @@ Reports directly to Head of Travel Global Portfolio Monitoring and Pricing.
   - Code: `PostgresSQL; Gitlab; Flask; R Flexdashboard, Jupyter, Papermill`
   - Description: Private cloud reporting warehouse for Travel LoB Senior Global Leadership managing $1.5B book of insurance in 46 countries.
   - Impact: Successfully launched first multi-regional underwriting technical resource. Insights provided on business partner and product performance.
-  - Link: Example Jupyter Pipeline 
+  - git repo: Example Jupyter pipeline with dummy data
 
-‘UPLOAD ASSISTANT’ ETL AUDIT APPLICATION 
-Code: Python; Pandas; Pyinstaller; json; parquet
-Description: GUI Application that reads technical reporting from local underwriters, displays aggregated reporting, shows comparisons to known financials, and validations for both data issues and metric thresholds before saving in json or parquet data files.
-Impact: Replaced key project barrier; weeks-long, meetings-based, data quality feedback loop, with an instant process, survey results, and user feedback.
+- ‘Upload Assistant’ ETL Audit Application 
+  - Code: `Python; Pandas; Pyinstaller; json; parquet`
+  - Description: GUI Python Application that reads technic reports from local underwriters, converts currencies, displays aggregated reporting, shows comparisons to known financials, and validations for both data issues and metric thresholds before saving as json or parquet data files.
+  - Impact: Replaced key project barrier; weeks-long, meetings-based, data quality feedback loop, with an instant process, survey results, and user feedback
+  - git repo: 2021.Q1 Upload Assistant
+  - documentation: docs
 
 
-I did even more stuff
 
-
-Designing and developing custom data solutions from user experience and validation at ingestion, to open source and auditable ETL, to presentation layer BI dashboarding. - Data Business Case and Vender Relations 
--	Data Science Project Management 
--	Custom Python Development (Validation, ETL, and Presentation Layer primarily) 
--	Stakeholder Reporting 
--	Role involves project planning, python/R development, and delivery on a data strategy for reporting underwriting results to global executives managing Allianz Partners business in 30+ offices.
-
-BI / Data Solutions Analyst (Feb 2017 – March 2020) 
 •	Directed implementation of data solution/automation server for Operations. Global IT project landed successful and on time. 
 •	Priced prospective operation processing financial benefit claims (400 employees, $25M annual budget) 
 •	Claims volume forecast modeling using actuarial methods developed in FP&A Page 1 of 3
