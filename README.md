@@ -1,118 +1,155 @@
-###### Note that activity charts do not include enterprise or GitLab account activity.
-###### I am in the process of providing portfolio examples that are ethically curated with dummy data and client secrets protected.
-
-Gavin Harmon 
+# Gavin Harmon 
 ============
 
+###### Currently Lead Data Engineer at Hamilton Beach Brands managing enterprise data platform serving 125+ users
+###### Portfolio examples available with ethically curated dummy data and client secrets protected
 
 ----
-| Contact:  | [github](https://github.com/gavin-harmon)   | [LinkedIn](http://www.linkedin.com/in/gavin-harmon-63652064)     |  gavinharmonva@gmail.com       | (703) 927-5258   
+| Contact:  | [GitHub](https://github.com/gavin-harmon)   | [LinkedIn](http://www.linkedin.com/in/gavin-harmon)     |  gavinharmonva@gmail.com       | (703) 927-5258   
 | :---     |    :----:       |     :----:       |    :----:   |          ---: |
 
 ----
 
->  Highlighted Skills: `SQL Query Writing, ETL, Insurance, Finance P&L's, Docker, Gitlab,`\
->  `Flask Python, R, Pandas, PyCharm, Dashboard Design, Report Automation, Power BI, Qlikview,`\
->  `IBM Cognos, Tableau, Jupyter Notebooks, SSMS, SSIS, Project Lifecycles, Powerpoint, Excel`  
+>  **Modern Data Engineering:** `Dagster, DBT Core, DuckDB, Polars, Data Lake Architecture, Real-time Pipelines`\
+>  **Cloud & Infrastructure:** `Azure (AKS, Blob Storage), AWS, Kubernetes, Docker, Infrastructure as Code`\
+>  **Programming:** `Python (Pandas, Polars), SQL (Advanced), R, AI-Enhanced Development`\
+>  **Analytics & BI:** `Power BI, Streamlit, Jupyter/Marimo, Tableau, Dashboard Automation`\
+>  **Legacy Enterprise:** `SSIS, SSMS, IBM Cognos, Oracle, SAP, Insurance Domain Expertise`
  
 ----
-Education
+## Education
 ---------
 
 2003-2007
 **BSc, Economics**; Virginia Commonwealth University School of Business (Richmond, VA)
 
+**Certifications:** Microsoft Azure Fundamentals (AZ-900), Azure Data Fundamentals (DP-900)
+
 ----
-Work Experience:
+## Work Experience:
 ---------
 
-### Allianz Partners 	*(Oct 2010 – Present)*
+### Hamilton Beach Brands 	*(April 2024 – Present)*
 
-**Senior Data Solutions Analyst** *(March 2020 – Present)*
-
-
-##### Role Summary
-
-Reports to Head of Travel Global Portfolio Monitoring and Pricing. 
--	Responsible for full data science project lifecycles
--	Custom python development (Validation, ETL, and Presentation)
--	Stakeholder reporting
--	Role involves project planning, python/R development, and delivery on a data strategy for reporting underwriting results to global executives managing Allianz Partners business in 30+ offices.
-
-##### Leadership Accomplishments
-
-- Business case design presented to budget sponsors and conducted RFP for cloud data solutions.
-- Team project planning in 90 day cycles. Three level tasks lists with calendars and Gannt charts for a team of four coordinating quartely deliverables.
-- Analyst community executive initiative development involving recruitment, analyst career pathing, and organizational knowledge management for senior leadership as a member of the Allianz Partners Analyst Enablement Committee composed of two managers and two analysts.
-
-##### Highlighted Projects
-
-- Global Underwriting Database
-  - **Code:** `PostgresSQL; Gitlab; Flask; R Flexdashboard, Jupyter, Papermill`
-  - **Description:** Private cloud reporting warehouse for Travel LoB Senior Global Leadership managing $1.5B book of insurance in 46 countries.
-  - **Impact:** Successfully launched first multi-regional underwriting technical resource. Insights provided on business partner and product performance.
-  - **git repo**: Example Jupyter pipeline with dummy data
-
-- ‘Upload Assistant’ ETL Audit Application 
-  - Code: `Python; Pandas; Pyinstaller; json; parquet`
-  - Description: GUI Python Application that reads technic reports from local underwriters, converts currencies, displays aggregated reporting, shows comparisons to known financials, and validations for both data issues and metric thresholds before saving as json or parquet data files.
-  - Impact: Replaced key project barrier; weeks-long, meetings-based, data quality feedback loop, with an instant process, survey results, and user feedback
-  - git repo: 2021.Q1 Upload Assistant
-  - documentation: docs
-
-**BI / Data Solutions Analyst** *(Feb 2017 – March 2020)*
+**Lead Data Engineer**
 
 ##### Role Summary
 
-Reports to Director of Operations Performance and Optimization.
-Technical lead for Operations MS SQL Server Business Intelligence Warehouse project lifecycle. Build, maintain, and modify ETL processes and report templates. Train 6 member Business Productivity reporting team. Produce model-based 12 week staffing plans during catostrophic claims seasons. Launch one BI dashboards per quarter. Maintain and enchance reporting BI reporting suite. Other duties as assigned.
+Reports to IT Leadership. Architect and manage complete enterprise data infrastructure supporting 125+ users across finance, warehouse operations, marketing, and data science teams. Deliver 600+ automated reports across dual Power BI environments while pioneering cost-effective open-source solutions.
 
-##### Leadership Accomplishments
+##### Technical Leadership
 
-- Authored 'Operations Business Intelligence Roadmap'. Two-year project plan created for Director of Business Performance and Optimization. Three phases with milestones, calendars, and Gantt charts plan to transition from reporting infrastructure to a Business Intelligence team without forced attrition.
-- Developed and conducted formal training for Business Productivity team members on newly implemented ETL and reporting resources. Curriculum: SSMS navigation, custom template SQL script deployment, SSIS job agent basics, report troubleshooting, and Q&A sessions.
+- **Platform Architecture:** Solo management of 10TB+ Azure data lake with 99.9% uptime SLAs
+- **Modern Orchestration:** Production Dagster implementation processing 500+ daily pipeline executions
+- **Cost Optimization:** Achieved enterprise capabilities using open-source tools, reducing licensing costs 80%+
+- **AI-Enhanced Development:** Pioneered generative AI practices for rapid solution delivery
 
 ##### Highlighted Projects
 
-- Contact Center BI Warehouse
-  - Code: `MS SQL Server; SSMS; SSIS; Cisco; Verint; Powershell`
-  - Description: Business Intelligence server project lifecycle lead
-  - Impact: Of three departments, this was the only one that went live on time and without major issues. Ability to manage vendors, anticipate process failures, include feature flags, and upskill ETL abilities as needed resulted in report automation, source combination, and novel management user tools.
+- **Enterprise Data Orchestration Platform**
+  - **Tech Stack:** `Dagster, Azure, Python, DBT Core, Kubernetes, Real-time Monitoring`
+  - **Description:** Microservices-based orchestration platform with automated monitoring, error handling, and self-healing capabilities
+  - **Impact:** Eliminated 40+ hours weekly manual work, reduced processing time from 6 hours to 30 minutes
+  - **git repo**: [Data Pipeline Examples] *(Coming Soon)*
 
-- Mobile Contact Center Management Report
-  - Code: `Cisco; Powershell; XML; SSIS; SQL; Klipfolio`
-  - Description:  Phone-based presentation of service KPIs (longest call waiting, agents available etc.).
-  - Impact: Extensive collaboration and requirement review resulted in 24/7 visibility into 15 departments in North America while providing managers context to avoid ‘knee jerk’ resource allocation.
-  - git repo: Limited examples
+- **High-Performance Analytics Infrastructure** 
+  - **Tech Stack:** `Azure Kubernetes Service, Jupyter, DuckDB, Distributed Computing`
+  - **Description:** On-demand compute clusters with auto-scaling and resource optimization
+  - **Impact:** 90% cost reduction while achieving 300% performance improvement and 10x dataset capacity
+  - **git repo**: [AKS Analytics Setup] *(Coming Soon)*
 
-- B2C Sales Gamification
-  - Code: `Cognos; PeopleSoft; Cisco; SSIS; SQL; Klipfolio`
-  - Description: Sales leaderboard with 2-minute refresh and GIF avatars for the month’s top 4 sales people.
-  - Impact: Significant performance increases through Feb. 2020 (Covid impacts after).
-  - git repo: B2C Sales Gamification
+- **AI-Enhanced Development Platform**
+  - **Tech Stack:** `Generative AI Tools, Modern Development Frameworks, Azure DevOps`
+  - **Description:** Integrated AI-powered development workflow for rapid prototyping and deployment
+  - **Impact:** 70% reduction in delivery time, replaced $50K+ vendor solutions with internal capabilities
+  - **git repo**: [AI Development Examples] *(Coming Soon)*
 
-**Financial Data Analyst** *(Nov 2014 – Feb 2017)*
-- Created actuarial data model for FP&A's earnings forecast up to 70% reduction in month over month variance in P&L results from core product lines. 
-- Composed three-entity insurance model in inherited MS Excel format and transferred that insurance result forecast and reporting to BPC SAP database solution. 
-- Submitted official US Business Unit plans and results to Allianz HQ via SAP interface
+### HighRoads *(July 2021 – April 2024)*
 
-**Service Network Specialist** *(Jan 2014 – Nov 2014)*
-- Created data processes (Oracle PeopleSoft and MS Access) and standard operating procedures to manage a global network of providers composed of thousands of healthcare service contracts. 
-- Originally a full department dedicated to servicing a leading national healthcare provider, I came in after termination of that arrangement to rebuild effective and efficient processes for our travel assistance team. 
-- Upon successful completion of the year-long discovery and implementation project, Service Network management required few system functions and focus shifted network reach and discount targets.
+**Data Engineer**
 
-**Business Intelligence Analyst ** *(Jan 2012-Dec 2013)*
--	Launched compensation determining incentive program metrics for Sales and Claims departments with 'level-of-effort' weighting, still in use as of 2019. 
--	Created multivariant claims productivity model in 'R' statistical software. 
--	Designed reports and processes handed to reporting team members. 
--	This position is a promotion within the Operations Business Productivity department
+##### Role Summary
 
-**Reporting Analyst** *(Oct 2010 – Dec 2012)*
--	Support diverse lines of business through design, implementation, and delivery of reports on both scheduled and ad hoc basis.
--	Routinely perform tasks related to project management and strategic initiatives. Conduct analysis and present data driven cases to management. Deliver updates, maintenance and new design for Excel based dashboards and scheduled reporting. 
--	Allocate monthly budgets and deliver weekly and monthly budget reports to management. 
--	Principle trainer of new analysts who join our team. 
--	Design and schedule PeopleSoft, IBM Business Objects (Cognos) and Access SQL queries. 
--	Design Access databases to support business operations. 
--	Payroll reporting of 400 associates in 12 cost centers 
--	Subject matter expert in call center and claims staffing.
+Technical lead for enterprise P&C insurance client implementations. Managed complex data migrations and technical consulting for Fortune 500 insurance companies with multi-million dollar portfolios.
+
+##### Key Achievements
+
+- **Client Implementation Leadership:** Delivered critical implementations within 6-month timelines
+- **Cloud Migration Architecture:** AWS modernization achieving 300% performance improvements  
+- **Regulatory Compliance:** Built automated pipelines supporting $1B+ insurance portfolios
+- **Team Leadership:** Managed senior developers on critical integration projects
+
+##### Highlighted Projects
+
+- **Enterprise Insurance Data Migration**
+  - **Tech Stack:** `Python, Clover DX ETL, AWS, Postman, MarkLogic`
+  - **Description:** End-to-end data migration platform for Fortune 500 P&C insurance clients
+  - **Impact:** Successfully migrated multi-million dollar portfolios with zero data loss
+  - **git repo**: [Insurance ETL Examples] *(Sanitized Version Coming)*
+
+### Allianz Partners 	*(Oct 2010 – July 2021)*
+
+**Senior Data Solutions Analyst** *(March 2020 – July 2021)*
+
+##### Role Summary
+
+Managed data solutions for $1.5B global travel insurance portfolio across 46 countries. Led Python development for validation, ETL, and presentation layers serving global underwriting teams.
+
+##### Highlighted Projects
+
+- **Global Underwriting Database**
+  - **Tech Stack:** `PostgreSQL, GitLab, Flask, R Flexdashboard, Jupyter, Papermill`
+  - **Description:** Private cloud reporting warehouse for global leadership managing $1.5B insurance portfolio
+  - **Impact:** First successful multi-regional underwriting technical resource
+  - **git repo**: [Underwriting Analytics Pipeline] *(Dummy Data Version)*
+
+- **Upload Assistant ETL Audit Application** 
+  - **Tech Stack:** `Python, Pandas, PyInstaller, JSON, Parquet`
+  - **Description:** GUI application for automated data validation and quality checking
+  - **Impact:** Replaced weeks-long manual processes with instant validation and feedback
+  - **git repo**: [ETL Validation Tool] *(Sanitized Version)*
+
+**Previous Progressive Roles** *(Oct 2010 – March 2020)*
+- **BI / Data Solutions Analyst** *(Feb 2017 – March 2020)*
+- **Financial Data Analyst** *(Nov 2014 – Feb 2017)*  
+- **Business Intelligence Analyst** *(Jan 2012 – Dec 2013)*
+- **Reporting Analyst** *(Oct 2010 – Dec 2012)*
+
+##### Notable Legacy Projects
+
+- **Contact Center BI Warehouse** - Led full lifecycle implementation ($25M budget, 400+ employees)
+- **Mobile Management Reporting** - Real-time KPI delivery providing 24/7 visibility across 15 departments  
+- **B2C Sales Gamification** - Performance leaderboard achieving significant productivity increases
+- **Actuarial Forecasting Models** - 70% reduction in month-over-month P&L variance
+
+----
+
+## Current Focus & Interests
+
+**🔭 Currently Working On:** Advanced data orchestration patterns, cost-effective enterprise analytics, AI-enhanced development workflows
+
+**🌱 Learning:** Modern streaming architectures, advanced Kubernetes patterns, MLOps best practices
+
+**👯 Open to Collaborate:** Data engineering projects, open-source contributions, cost optimization strategies
+
+**💬 Ask Me About:** Enterprise data platform architecture, insurance domain expertise, rapid solution delivery
+
+**📫 How to Reach Me:** gavinharmonva@gmail.com | [LinkedIn](http://www.linkedin.com/in/gavin-harmon)
+
+**⚡ Fun Fact:** I've built enterprise-grade solutions using primarily open-source tools, proving you don't need expensive licenses to deliver amazing results
+
+----
+
+## GitHub Stats
+
+![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavin-harmon&show_icons=true&theme=default)
+
+## Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=Microsoft-Azure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power-BI&logoColor=black)
