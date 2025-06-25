@@ -10,9 +10,9 @@
 
 ----
 
->  **Modern Data Engineering:** `Dagster, DBT Core, DuckDB, Polars, Data Lake Architecture, Real-time Pipelines`\
+>  **Modern Data Engineering:** `Dagster, DBT Core, DuckDB, Data Lake Architecture, Real-time Pipelines`\
 >  **Cloud & Infrastructure:** `Azure (AKS, Blob Storage), AWS, Kubernetes, Docker, Infrastructure as Code`\
->  **Programming:** `Python (Pandas, Polars), SQL (Advanced), R, AI-Enhanced Development`\
+>  **Programming:** `Python (Pandas, Polars Streamlit), SQL (Duckdb Postgres MSSQL), R, AI-Enhanced Development`\
 >  **Analytics & BI:** `Power BI, Streamlit, Jupyter/Marimo, Tableau, Dashboard Automation`\
 >  **Legacy Enterprise:** `SSIS, SSMS, IBM Cognos, Oracle, SAP, Insurance Domain Expertise`
  
@@ -29,7 +29,7 @@
 ## Work Experience:
 ---------
 
-### Hamilton Beach Brands 	*(April 2024 – Present)*
+### Hamilton Beach Brands 	*(April 2023 – Present)*
 
 **Lead Data Engineer**
 
@@ -64,7 +64,7 @@ Reports to IT Leadership. Architect and manage complete enterprise data infrastr
   - **Impact:** 70% reduction in delivery time, replaced $50K+ vendor solutions with internal capabilities
   - **git repo**: [AI Development Examples] *(Coming Soon)*
 
-### HighRoads *(July 2021 – April 2024)*
+### HighRoads *(July 2021 – April 2023)*
 
 **Data Engineer**
 
